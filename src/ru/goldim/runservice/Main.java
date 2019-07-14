@@ -1,8 +1,8 @@
 package ru.goldim.runservice;
 
-import ru.goldim.runservice.Service.Service1;
-import ru.goldim.runservice.Service.Service2;
-import ru.goldim.runservice.Service.Service3;
+import ru.goldim.runservice.service.Service1;
+import ru.goldim.runservice.service.Service2;
+import ru.goldim.runservice.service.Service3;
 
 public class Main {
     public static void main(String[] args) {
